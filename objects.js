@@ -1,7 +1,5 @@
 var playlist = {
-  tobyFox: 'megalovania',
-  nintendo: 'godShatteringStar',
-  splatoon: 'splatatack'
+  Phil Ochs: 'Changes'
 }
 function updatePlaylist (playlist, artistName, songTitle) {
 
