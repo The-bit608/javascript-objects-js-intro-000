@@ -6,5 +6,5 @@ playlist[artistName] = songTitle
 return playlist
 }
 function removeFromPlaylist (playlist, artistName) {
-return(delete playlist.songTitle)
+return(delete playlist.artistName)
 }
